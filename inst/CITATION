@@ -2,14 +2,14 @@ citHeader("To cite talaan in publications use:")
 
 citEntry(
   entry    = "Manual",
-  title    = "talaan: An Interface to the Philippines Civil Registry and Vital Statistics Data",
+  title    = "talaan: An Interface to the Philippines Civil Registration and Vital Statistics Data",
   author   = person("Ernest Guevarra"),
   year     = "2024",
   note     = "R package version 0.0.0.9000",
   url      = "https://panukatan.io/talaan/",
   textVersion = paste(
     "Ernest Guevarra (2024).",
-    "talaan: An Interface to the Philippine Civil Registry and Vital Statistics Data",
+    "talaan: An Interface to the Philippine Civil Registration and Vital Statistics Data",
     "R package version 0.0.0.9000",
     "URL https://panukatan.io/talaan/"
   )
