@@ -1,0 +1,18 @@
+Package: talaan
+Type: Package
+Title: An Interface to the Philippine Civil Registration and Vital Statistics Data
+Version: 0.0.0.9000
+Authors@R: person(given = "Ernest", 
+                  family = "Guevarra", 
+                  comment = c(ORCID = "0000-0002-4887-4415"), 
+                  email = "ernest@guevarra.io", 
+                  role = c("aut", "cre"))
+Description: The Philippine Statistics Authority (PSA) makes civil registration 
+    data publicly available through their monthly updates on numbers of births,
+    deaths, and marriages released via their website. This package provides
+    utilities for accessing and processing the civil registration and vital
+    statistics data released by the PSA.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
